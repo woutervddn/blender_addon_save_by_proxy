@@ -24,3 +24,7 @@ While there still is an issue with showing the button in the menu system of 2.80
 # Deinstallation
 
 Want your default save behavior back? Just disable the checkbox of the plugin in Blenders addon manager.
+
+# Want to help?
+
+Feel free to solve the problem of the plugin not showing up in the file menu. I haven't figured it out yet, and I mostly save using `ctrl+s` anyhow. But for other users this might be a huge help.
