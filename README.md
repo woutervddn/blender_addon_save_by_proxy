@@ -14,8 +14,9 @@ For more information, see the [BENCHMARKS](BENCHMARKS.md) file.
 
 # Installation
 
-Download the `save_by_proxy.py` file from the repository, save it to your desktop and add it through Blenders addon manager.
-Finally enable it by toggling the checkbox before the plugin name.
+- Download the `save_by_proxy.py` file from the repository or find it on [Gumroad](https://gum.co/LDanY); Save it to your desktop
+- Add it through Blenders addon manager.
+- Finally enable it by toggling the checkbox before the plugin name.
 
 # Usage
 
