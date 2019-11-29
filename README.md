@@ -10,7 +10,7 @@ For saves to a local drive, the time difference should not really matter.
 For saves to a network location of a 3.5GB blend file we saw a difference of 5x the speed when saving to a low latency 10Gbps FreeNAS SMB share.
 For saves to a windows share on a 1Gbps location we saw a difference 28x the speed.
 
-For more information, see the [BENCHMARKS](BENCHMARKS) file.
+For more information, see the [BENCHMARKS](BENCHMARKS.md) file.
 
 # Installation
 
