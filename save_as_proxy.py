@@ -41,7 +41,7 @@ class ProxyFileSave(bpy.types.Operator):
             outpath_final = os.path.dirname(bpy.path.abspath(bpy.data.filepath))
             print(os.path.join(outpath, outname))
             report = bpy.ops.wm.save_as_mainfile(filepath=os.path.join(outpath, outname),
-                        check_existing=True, copy=True)
+                        check_existing=True, copy=True, relative_remap=False)
                         
             # os.rename(os.path.join(outpath, outname), os.path.join(outpath_final, outname)) # Does not work accross devices
             if report == {"FINISHED"}:
